@@ -19,11 +19,16 @@ img{
 }
 
 #top{
-	margin-top: 50%;
+	margin-top: 30%;
 }
 
 
 /*boton discord pulse*/
+
+.buttons{
+	position: absolute;
+	right: 20px;
+}
 
 .fill:focus,.fill:hover {
 	box-shadow: inset 0 0 0 2em var(--hover);
